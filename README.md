@@ -25,11 +25,11 @@
 ---
 
 ## 🛠 **Установка | Installation**  
-1. Скачайте последнюю версию в [разделе Releases](#)  
+1. Скачайте последнюю версию в разделе Releases
 2. **Запустите** `AutoClicker.exe`  
 3. Наслаждайтесь! 🎉  
 
-_(Download latest version in [Releases](#) → Run `AutoClicker.exe`)_
+_(Download latest version in Releases → Run `AutoClicker.exe`)_
 
 ---
 
