@@ -26,6 +26,10 @@ RU:
 
 Наведите курсор в нужное место – клики начнутся автоматически.
 
+Установка:
+
+Скачайте exe файл во вкладке Release
+
 
 ENG:
 
@@ -54,3 +58,8 @@ Click on the GIF to continue.
 Adjust speed and select a mouse button.
 
 Hover the cursor – clicks will start automatically.
+
+
+Installation:
+
+Download the exe file in the Release tab
