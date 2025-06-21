@@ -50,18 +50,3 @@ _(Download latest version in [Releases](#) → Run `AutoClicker.exe`)_
    - Set clicks-per-second  
 4. **Hover cursor** → autoclicker is LIVE!  
 
----
-
-## 📸 **Скриншоты | Screenshots**  
-(Здесь можете вставить картинки интерфейса)  
-
----
-
-## ❓ **Поддержка | Support**  
-**Проблемы?** Откройте [Issue](https://github.com/ваш-репозиторий/issues)  
-**Есть идеи?** Пишите в [Discussions](#)  
-
----
-
-## ⚖️ **Лицензия | License**  
-MIT License © 2024 [Ваше имя]  
