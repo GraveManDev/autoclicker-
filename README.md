@@ -1,65 +1,67 @@
-Простой автокликер с настройками
+# 🖱️ AutoClicker | Автокликер  
 
-RU:
+**🔥 Простой, но мощный инструмент для автоматизации кликов!**  
+**🔥 Simple but powerful click automation tool!**  
 
+---
 
-Описание
-Этот автокликер позволяет автоматизировать клики мышью с настраиваемой скоростью (от 1 до 150 кликов в секунду) и выбором кнопки (левая, правая, колесо).
+## 🌟 **Особенности | Features**  
 
-Особенности
-🎮 Гифка-заставка – перед запуском нужно нажать на гифку.
+### � **Основные функции | Core Features**  
+- 🎮 **Интерактивная заставка** – весёлая гифка перед запуском!  
+  _(Interactive splash screen – fun GIF before start!)_  
+- ⚡ **Быстрые настройки** – мгновенная смена параметров  
+  _(Quick settings – instant parameter changes)_  
+- 🛠️ **Гибкая конфигурация**:  
+  - **Скорость**: 1-150 кликов/сек (кликер с защитой от слишком высоких значений)  
+  - **Кнопки**: Левая 🖱️ | Правая 👆 | Колесо 🔄  
+  _(Speed: 1-150 CPS with safe limits | Buttons: Left/Right/Middle)_  
 
-⚙️ Настройки кликов:
+### 🚀 **Уникальные преимущества | Unique Advantages**  
+- ✅ **Не нагружает систему** (оптимизированный код)  
+- ✅ **Не требует установки** (portable версия)  
+- ✅ **Подходит для игр и работы**  
 
-Скорость: 1–150 кликов/секунду.
+---
 
-Выбор кнопки: левая, правая, колесо мыши.
+## 🛠 **Установка | Installation**  
+1. Скачайте последнюю версию в [разделе Releases](#)  
+2. **Запустите** `AutoClicker.exe`  
+3. Наслаждайтесь! 🎉  
 
-🖱️ Простота использования – легкий интерфейс без лишних функций.
+_(Download latest version in [Releases](#) → Run `AutoClicker.exe`)_
 
-Как использовать
-Запустите программу.
+---
 
-Нажмите на гифку, чтобы продолжить.
+## 🎯 **Как использовать | How to Use**  
+**Русская версия**:  
+1. **Запустите программу** → появится гифка  
+2. **Кликните по гифке** для продолжения  
+3. **Настройте параметры**:  
+   - Выберите кнопку мыши  
+   - Укажите скорость кликов  
+4. **Наведите курсор** в нужное место → кликер активирован!  
 
-Выберите скорость и кнопку мыши.
+**English Version**:  
+1. **Launch app** → GIF splash appears  
+2. **Click the GIF** to continue  
+3. **Adjust settings**:  
+   - Select mouse button  
+   - Set clicks-per-second  
+4. **Hover cursor** → autoclicker is LIVE!  
 
-Наведите курсор в нужное место – клики начнутся автоматически.
+---
 
-Установка:
+## 📸 **Скриншоты | Screenshots**  
+(Здесь можете вставить картинки интерфейса)  
 
-Скачайте exe файл во вкладке Release
+---
 
+## ❓ **Поддержка | Support**  
+**Проблемы?** Откройте [Issue](https://github.com/ваш-репозиторий/issues)  
+**Есть идеи?** Пишите в [Discussions](#)  
 
-ENG:
+---
 
-AutoClicker
-Simple customizable auto-clicker
-
-Description
-This auto-clicker automates mouse clicks with adjustable speed (1–150 clicks per second) and button selection (left, right, middle wheel).
-
-Features
-🎮 Splash GIF – click on the GIF to proceed.
-
-⚙️ Click settings:
-
-Speed: 1–150 clicks per second.
-
-Mouse button: left, right, or middle wheel.
-
-🖱️ Easy to use – lightweight interface with no bloat.
-
-How to use
-Run the program.
-
-Click on the GIF to continue.
-
-Adjust speed and select a mouse button.
-
-Hover the cursor – clicks will start automatically.
-
-
-Installation:
-
-Download the exe file in the Release tab
+## ⚖️ **Лицензия | License**  
+MIT License © 2024 [Ваше имя]  
